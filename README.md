@@ -16,24 +16,24 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td>85
-                        <td>  B+
+                    <td>LAMA HAYO
+                        <td>  Z
                         <td> COMPUTER</td>
                     </td>
                 </tr>
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td>   80
-                        <td>B
+                    <td>   LAMA HAYO
+                        <td>Z
                     </td>
                     <td> COMPUTER
                     </td>
                 </tr>
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>100  
-                        <td> A+
+                    <td>LAMA HAYO 
+                        <td> Z
                     </td>
                     <td> COMPUTER
                     </td>
