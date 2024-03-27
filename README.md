@@ -12,44 +12,43 @@
                     <th>Buuntada</th>
                     <th>Darajo</th>
                     <th>Fasalka</th>
-             
+                </tr>
                 
                     <td> WINDOW 10</td>
                    
-                    <td>LAMA HAYO
-                        <td>  Z
+                    <td>Lama Hayo 
+                        <td> Z
                         <td> COMPUTER</td>
                     </td>
-               
+           
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td>   LAMA HAYO
+                    <td> Lama Hayo 
                         <td>Z
                     </td>
                     <td> COMPUTER
                     </td>
-               
+          
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td>LAMA HAYO 
+                    <td>Lama Hayo 
                         <td> Z
                     </td>
                     <td> COMPUTER
                     </td>
-      
+        
                
                 <tr>
                         <td>M-S POWER POINT </td>
-                        <td>Lama hayo</td>
+                        <td>Lama Hayo </td>
                         <td> Z
                         <td> COMPUTER
                         </td>
-               
-                    <tr>
-                        <td> SECURITY</td>
-                        <td>Lama Hayo</td>
+                  <tr>
+                        <td>M-S SECURITY </td>
+                        <td>Lama Hayo </td>
                         <td> Z
                         <td> COMPUTER
                         </td>
-                     <tr>
+                  
