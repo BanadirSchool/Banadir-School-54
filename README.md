@@ -4,7 +4,7 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Mohamed Abdulwali Barleh</h1>
+            <h1> Mohamed Abdulwali Ibrahim</h1>
             <h2> ID: 0054</h2>
             <table border="25">
                 <tr>
